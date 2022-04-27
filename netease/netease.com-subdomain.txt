@@ -51,6 +51,7 @@ js.data.netease.com
 fire.netease.com
 6.data.netease.com
 download.sf.netease.com
+internal.vpn.netease.com
 apps.da.netease.com
 old.qa.netease.com
 gm.data.netease.com
@@ -62,6 +63,7 @@ zhidao.data.netease.com
 monitor.ci.netease.com
 blog.cloud.netease.com
 demo.sf.netease.com
+jenkins-test-new.netease.com
 dev.cloud.netease.com
 ftp.sf.netease.com
 pic.qa.netease.com
@@ -75,6 +77,7 @@ x.cloud.netease.com
 tool.sf.netease.com
 f.zh.netease.com
 wei.pay.netease.com
+admin.release.netease.com
 git.pay.netease.com
 so.cloud.netease.com
 imap.hz.netease.com
